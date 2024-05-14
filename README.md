@@ -49,4 +49,4 @@ In this project, you will dive into the fascinating world of image captioning us
 ### Week 8: Final Model (Image Captioning with Attention Mechanism)
 - Integrating attention mechanism into the encoder and decoder architecture for image captioning. Training the final model and evaluating its performance on a dataset.
 
-Throughout the course, you will be provided with resources, assignments, and guidance to help you understand the concepts and implement them effectively. By the end of the course, you will have the skills and knowledge to build advanced deep learning models for image captioning and other related tasks.
+Throughout the project, you will be provided with resources, assignments, and guidance to help you understand the concepts and implement them effectively. By the end of the project, you will have the skills and knowledge to build advanced deep learning models for image captioning and other related tasks.
